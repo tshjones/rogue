@@ -23,6 +23,8 @@ namespace Rogue
             Chart = map;
         }
         
+
+
         public void PrintMap()
         {
             for (int i = 0; i < Chart.Count; i++)
